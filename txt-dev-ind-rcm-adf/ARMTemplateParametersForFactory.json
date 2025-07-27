@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "txt-dev-ind-rcm-adf"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }

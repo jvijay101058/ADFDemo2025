@@ -1,0 +1,6 @@
+{
+	"name": "OnPremise-SQLDB-IR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

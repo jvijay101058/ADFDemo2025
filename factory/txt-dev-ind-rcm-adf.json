@@ -1,0 +1,9 @@
+{
+	"name": "txt-dev-ind-rcm-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "10f9c345-aa0d-4eb8-bf61-22daf7206dc0",
+		"tenantId": "f1046d99-49a3-4056-93f8-c200429d114d"
+	}
+}
